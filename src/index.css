@@ -1,3 +1,48 @@
-div {
-  border: 1px solid black;
+* {
+  margin: 5px;
 }
+
+.history {
+  border: 5px solid red;
+}
+.math {
+  border: 5px solid green;
+}
+.science {
+  border: 5px solid blue;
+}
+
+/* body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  display: inline-flex;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+.math {
+  border: 1px solid red;
+  width: 100px;
+  height: 200px;
+}
+
+.science {
+  border: 1px solid blue;
+  width: 100px;
+  height: 200px;
+}
+
+.history {
+  border: 1px solid black;
+  width: 100px;
+  height: 200px;
+}
+
+.Custom {
+  border: 1px solid purple;
+  width: 100px;
+  height: 200px;
+} */

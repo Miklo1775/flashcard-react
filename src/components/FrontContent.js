@@ -1,7 +1,7 @@
 const FrontContent = () => {
   return (
     <div>
-      <p>Question</p>
+      <p>Click me for the Answer</p>
     </div>
   );
 };

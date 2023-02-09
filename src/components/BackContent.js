@@ -1,7 +1,7 @@
-const BackContent = () => {
+const BackContent = (props) => {
   return (
     <div>
-      <p>Answer</p>
+      <p>{props.answer}</p>
     </div>
   );
 };
